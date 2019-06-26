@@ -334,3 +334,8 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [Faizan Zafar](https://github.com/faizanzafar95)
+- Place: Aachen, Germany
+- Bio: Aspiring Data Scientist, Tech Comm Enthusiast
+- GitHub: [faizanzafar95](https://github.com/faizanzafar95)
+
